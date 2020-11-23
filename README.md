@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 👯 I’m looking to collaborate on WebRTC project for my portfolio.
+- 🌱 I’m currently learning modern stacks
+- 🔭 I’m currently working on my portfolio and for a client
